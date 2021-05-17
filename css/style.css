@@ -1,0 +1,12 @@
+body {
+    margin: 0;
+    border-color: darkorange;
+    border-width: 20px;
+    border-style: dashed;
+    border: 20px solid seagreen;
+}
+
+p{
+    
+    color: pink;
+}
